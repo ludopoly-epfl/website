@@ -5,7 +5,8 @@ fr : french
 en : english
 
 STRUCTURE
-le code pour générer les pages web est dans build.py, il doit être run à chaque modif du site web
-le code qui intéragit avec les page web est dans script.js, il gère aussi les langues et modes
-le style des pages web est répartit entre les 2 fichiers style.css, un pour chaque mode
-le contenu des pages web est dans text.txt, il doit être mis à jour avant de run build.py
+text.txt : contenu des pages, build.py est run quand il est modifié et que les changements sont push
+update.yml : permet d'automatiquement run buil.py après une modification de text.txt et un push
+build.py : code pour générer les pages web, il doit être run à chaque modification du site web
+script.js : code qui interagit avec les pages, il gère aussi les langues et les modes
+style.css : style des pages, il est répartit entre 2 fichiers, un pour chaque mode
