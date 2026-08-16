@@ -1,10 +1,10 @@
-Site codé et écrit sans IA générative
+Ce site a été fait sans IA générative
 /#/#/
-Website coded et written without generative AI
+This website was made without the use of generative AI
 /#/#/
 Ce site et son contenu sont sous licence CC BY-SA 4.0
 /#/#/
-This site and its content are licenced with CC BY-SA 4.0
+This website and its content are licenced with CC BY-SA 4.0
 /#/#/
 https://creativecommons.org/licenses/by-sa/4.0
 /#/#/
