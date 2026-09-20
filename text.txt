@@ -55,8 +55,8 @@ Reste informé !
 Stay in touch !
 Réseaux sociaux
 Social media
-Pour rester au courant de nos activités et ne rater aucun événement !<br><br>Telegram : <a id="lien" href="https://t.me/ludopolynews" target="_blank">Ludopoly News</a><br><br>Instagram : <a id="lien" href="https://instagram.com/ludopoly_epfl" target="_blank">Ludopoly</a><br><br>Site web : <a id="lien" href="https://ludopoly.ch" target="_blank">ludopoly.ch</a>
-To keep up with our news and never miss any of our events !<br><br>Telegram : <a id="lien" href="https://t.me/ludopolynews" target="_blank">Ludopoly News</a><br><br>Instagram : <a id="lien" href="https://instagram.com/ludopoly_epfl" target="_blank">Ludopoly</a><br><br>Website : <a id="lien" href="https://ludopoly.ch" target="_blank">ludopoly.ch</a>
+Pour rester au courant de nos activités et ne rater aucun événement !<br><br>Telegram : <a id="lien" href="https://t.me/ludopolynews" target="_blank">Ludopoly News</a><br><br>Instagram : <a id="lien" href="https://instagram.com/ludopoly_epfl" target="_blank">ludopoly_epfl</a><br><br>Site web : <a id="lien" href="https://ludopoly.ch" target="_blank">ludopoly.ch</a>
+To keep up with our news and never miss any of our events !<br><br>Telegram : <a id="lien" href="https://t.me/ludopolynews" target="_blank">Ludopoly News</a><br><br>Instagram : <a id="lien" href="https://instagram.com/ludopoly_epfl" target="_blank">ludopoly_epfl</a><br><br>Website : <a id="lien" href="https://ludopoly.ch" target="_blank">ludopoly.ch</a>
 Communauté
 Community
 On possède aussi un <a id="lien" href="https://discord.gg/rDf2qmKE6M" target="_blank">serveur Discord</a> sur lequel tu peux te retrouver et discuter avec d’autres amateur·ices de jeux ! C’est aussi un moyen d'échanger directement avec les membres du comité et de nous recommander tes jeux préférés s’ils ne font pas déjà partie de notre inventaire.
