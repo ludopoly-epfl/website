@@ -11,7 +11,7 @@ https://creativecommons.org/licenses/by-sa/4.0
 https://creativecommons.org/licenses/by-sa/4.0
 /#/#/
 home
-Acceuil
+Accueil
 Home
 LUDOPOLY
 LUDOPOLY
@@ -19,8 +19,8 @@ Le jeu de société à l'EPFL !
 Boardgaming at EPFL !
 Présentation
 Presentation
-Ludopoly, c’est la commission de l’AGEPoly dédiée entièrement aux jeux de société ! Avec <a id="age"></a> ans d’existence et déjà plus de 300 jeux, notre but est de partager la passion du jeu de société sur le campus et de permettre à chacun·e de passer un bon moment, loin de la pression des études ou du travail.<br><br>C’est dans cet objectif qu’on organise chaque jeudi des soirées jeux gratuites et ouvertes à tous·tes qui accueillent déjà plus d’une centaine de personnes. Alors, que tu sois seul·e ou avec des ami·es, et quelle que soit ton expérience en jeu de société, viens, prends le jeu qui te fait le plus envie, et amuse-toi !
-Ludopoly is AGEPoly’s commission dedicated to boardgames ! With a <a id="age"></a> year history and over 300 games, our goal is to share our passion for these games across the campus and give anyone the opportunity to spend a great time, outside the worries of everyday life.<br><br>That is why we host game nights each Thursday, which are free and open to everyone ! More than a hundred people show up weekly, so whether you come alone or with your friends, take any game you want, and enjoy !
+Ludopoly, c’est la commission de l’AGEPoly dédiée entièrement aux jeux de société ! Avec <a id="age"></a> ans d’existence et déjà plus de 400 jeux, notre but est de partager la passion du jeu de société sur le campus et de permettre à chacun·e de passer un bon moment, loin de la pression des études ou du travail.<br><br>C’est dans cet objectif qu’on organise chaque jeudi des soirées jeux gratuites et ouvertes à tous·tes qui accueillent déjà plus d’une centaine de personnes. Alors, que tu sois seul·e ou avec des ami·es, et quelle que soit ton expérience en jeu de société, viens, prends le jeu qui te fait le plus envie, et amuse-toi !
+Ludopoly is AGEPoly’s commission dedicated to boardgames ! With a <a id="age"></a> year history and over 400 games, our goal is to share our passion for these games across the campus and give anyone the opportunity to spend a great time, outside the worries of everyday life.<br><br>That is why we host game nights each Thursday, which are free and open to everyone ! More than a hundred people show up weekly, so whether you come alone or with your friends, take any game you want, and enjoy !
 Contact
 Contact
 Pour nous contacter : comite@ludopoly.ch<br><br>Ou bien tu peux directement contacter la présidence par mail :<br>• Président·e : president@ludopoly.ch<br>• Trésorier·ères : tresorier@ludopoly.ch<br>• Événement : event@ludopoly.ch<br>• Logistique : logistique@ludopoly.ch
@@ -46,21 +46,21 @@ Coming soon
 Voici nos événements à venir :<br><br><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOZWCEW0d7CMardS6JCBdfdzgHHemEqlWu5TyAqVwXg-sqjaF9zOYS0IZGfDl1mNSQt853M1xYfkKF/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false" width="100%" height="450" style="border:0;"></iframe>
 Here are our upcoming events :<br><br><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOZWCEW0d7CMardS6JCBdfdzgHHemEqlWu5TyAqVwXg-sqjaF9zOYS0IZGfDl1mNSQt853M1xYfkKF/pubhtml?gid=482334559&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false" width="100%" height="450" style="border:0;"></iframe>
 /#/#/
-resaux
-Résaux
+reseaux
+Réseaux
 Social media
-Résaux
+Réseaux
 Social media
-Restes informé !
+Reste informé !
 Stay in touch !
 Réseaux sociaux
 Social media
-Pour rester au courant de nos activités et ne rater aucun événement !<br><br>Telegram : <a id="lien" href="t.me/ludopolynews">Ludopoly News</a><br><br>Instagram : <a id="lien" href="instagram.com/ludopoly_epfl">Ludopoly</a><br><br>Site web : <a id="lien" href="ludopoly.ch">ludopoly.ch</a>
-To keep up with our news and never miss any of our events !<br><br>Telegram : <a id="lien" href="t.me/ludopolynews">Ludopoly News</a><br><br>Instagram : <a id="lien" href="instagram.com/ludopoly_epfl">Ludopoly</a><br><br>Website : <a id="lien" href="ludopoly.ch">ludopoly.ch</a>
+Pour rester au courant de nos activités et ne rater aucun événement !<br><br>Telegram : <a id="lien" href="t.me/ludopolynews" target="_blank">Ludopoly News</a><br><br>Instagram : <a id="lien" href="instagram.com/ludopoly_epfl" target="_blank">Ludopoly</a><br><br>Site web : <a id="lien" href="ludopoly.ch" target="_blank">ludopoly.ch</a>
+To keep up with our news and never miss any of our events !<br><br>Telegram : <a id="lien" href="t.me/ludopolynews" target="_blank">Ludopoly News</a><br><br>Instagram : <a id="lien" href="instagram.com/ludopoly_epfl" target="_blank">Ludopoly</a><br><br>Website : <a id="lien" href="ludopoly.ch" target="_blank">ludopoly.ch</a>
 Communauté
 Community
-On possède aussi un <a id="lien" href="discord.gg/rDf2qmKE6M">serveur Discord</a> sur lequel tu peux te retrouver et discuter avec d’autres amateur·ices de jeux ! C’est aussi un moyen d'échanger directement avec les membres du comité et de nous recommander tes jeux préférés s’ils ne font pas déjà partie de notre inventaire.
-We also have a <a id="lien" href="discord.gg/rDf2qmKE6M">Discord server</a> on which you can find other boardgame enthusiasts to discuss with ! It is also a way for you to have direct contact with committee members and suggest your favourite games if we don’t already have them.
+On possède aussi un <a id="lien" href="discord.gg/rDf2qmKE6M" target="_blank">serveur Discord</a> sur lequel tu peux te retrouver et discuter avec d’autres amateur·ices de jeux ! C’est aussi un moyen d'échanger directement avec les membres du comité et de nous recommander tes jeux préférés s’ils ne font pas déjà partie de notre inventaire.
+We also have a <a id="lien" href="discord.gg/rDf2qmKE6M" target="_blank">Discord server</a> on which you can find other boardgame enthusiasts to discuss with ! It is also a way for you to have direct contact with committee members and suggest your favourite games if we don’t already have them.
 /#/#/
 jeux
 Jeux
@@ -71,8 +71,8 @@ Notre grandissante collection !
 Our ever growing collection !
 Inventaire
 Inventory
-On possède à l’heure actuelle plus de 300 jeux tous uniques en leur genre ! Et en voilà la liste complète :<br><br><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGgwekt_efle7z1LqNOy5siiPhWjQp6XoV3-2XeK3ozps7suA7kHCdYQ5tvYiKq4RI0PNENL79eU5H/pubhtml?gid=1024061405&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false" width="100%" height="450" style="border:0;"></iframe>
-We currently have more than 300 different games ! And here is the complete list of our games :<br><br><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGgwekt_efle7z1LqNOy5siiPhWjQp6XoV3-2XeK3ozps7suA7kHCdYQ5tvYiKq4RI0PNENL79eU5H/pubhtml?gid=662702549&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false" width="100%" height="450" style="border:0;"></iframe>
+On possède à l’heure actuelle plus de 400 jeux tous uniques en leur genre ! Et en voilà la <a id="lien" href="https://docs.google.com/spreadsheets/d/1JzWE2A-1tK6mmqerykM3f_FS3ZG6TJjEKBkqhY9Y5VU/edit?gid=1024061405#gid=1024061405" target="_blank">liste complète</a> :<br><br><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGgwekt_efle7z1LqNOy5siiPhWjQp6XoV3-2XeK3ozps7suA7kHCdYQ5tvYiKq4RI0PNENL79eU5H/pubhtml?gid=1024061405&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false" width="100%" height="450" style="border:0;"></iframe>
+We currently have more than 400 different games ! And here is the <a id="lien" href="https://docs.google.com/spreadsheets/d/1JzWE2A-1tK6mmqerykM3f_FS3ZG6TJjEKBkqhY9Y5VU/edit?gid=1024061405#gid=1024061405" target="_blank">complete list</a> of our games :<br><br><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGgwekt_efle7z1LqNOy5siiPhWjQp6XoV3-2XeK3ozps7suA7kHCdYQ5tvYiKq4RI0PNENL79eU5H/pubhtml?gid=662702549&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false" width="100%" height="450" style="border:0;"></iframe>
 Trouver son jeu
 Finding your game
 En venant à nos soirées, tu remarqueras que sur chaque boîte se trouve une gommette colorée. Elles ont pour but d’indiquer en un coup d'œil les langues dans lesquelles est un jeu.<br><br>Il y a 4 types de gommettes : les bleues, qui indiquent que le jeu est uniquement en français, les bordeaux, qui indiquent que le jeu n’est qu’en anglais, les noires, qui signifient qu’un jeu est jouable dans les deux langues, et les vertes, qui sont réservées aux jeux ne se jouant ni en français ni en anglais. Et, si les règles d’un jeu ne sont pas présentes dans votre langue, on vous recommande de laisser une chance au jeu et de les chercher en ligne.
@@ -87,7 +87,7 @@ Membres
 Members
 Membres
 Members
-Une carte et des avatanges !
+Une carte et des avantages !
 One card and many benefits !
 Devenir membre
 Become a member
@@ -99,8 +99,8 @@ Il est possible d’emprunter nos jeux grâce à ta carte membre. Plus d’infos
 By being a member, you can borrow our games. More information on the "Borrowing" page of this website.
 Rabais
 Discount
-Grâce à ta carte membre Ludopoly, tu bénéficies d’un rabais de 10% sur tous tes achats effectués chez le magasin <a id="lien" href="https://www.mightygames.ch/">Mighty Games</a>.
-By being a member, you also have access to a 10% discount on every purchase made at the <a id="lien" href="https://www.mightygames.ch/">Mighty Games stores</a>.
+Grâce à ta carte membre Ludopoly, tu bénéficies d’un rabais de 10% sur tous tes achats effectués chez le magasin <a id="lien" href="https://www.mightygames.ch/" target="_blank">Mighty Games</a>.
+By being a member, you also have access to a 10% discount on every purchase made at the <a id="lien" href="https://www.mightygames.ch/" target="_blank">Mighty Games stores</a>.
 Vote
 Vote
 Être membre à Ludopoly, c’est aussi avoir la possibilité d’influencer directement la direction que prendra la commission. Et ce, en élisant les membres de la présidence et du comité et en votant les changements de règlement lors de nos assemblées des membres (l’organe dirigeant la commission) ayant lieu au mois de mai.
@@ -115,12 +115,12 @@ Tous nos jeux à votre disposition !
 All of our games at your disposal !
 Membres
 Members
-En tant que membre de Ludopoly, il est possible d’emprunter nos jeux gratuitement pendant une semaine. Pour cela, adresse-toi à un membre du comité à l’entrée d’une soirée jeux avec le jeu que tu désires emprunter et présente-lui ta carte membre.<br><br>Si tu souhaites faire un emprunt en dehors d’une soirée jeux, envoie-nous un message sur notre serveur Discord et, si un membre du comité est disponible, il s’occupera de gérer ton emprunt.<br><br>En empruntant un jeu à Ludopoly, tu acceptes nos <a id="lien" href="https://docs.google.com/document/d/1DReIX_h992ot8kpPvnGJSTemni2sW-59wlTye2LJiV8/edit?usp=sharing">conditions de prêts</a>.
-Members can borrow our games for free during an entire week. To do so, find a committee member present at the entrance of our game nights, bring them the game that you want to borrow and show them your member card.<br><br>If you wish to borrow a game at any other time during the week, send a message on our Discord server, if a committee member is available, they will handle it with you.<br><br>By borrowing a game from Ludopoly, you are agreeing to our href="https://docs.google.com/document/d/1DReIX_h992ot8kpPvnGJSTemni2sW-59wlTye2LJiV8/edit?usp=sharing">lending terms</a>.
+En tant que membre de Ludopoly, il est possible d’emprunter nos jeux gratuitement pendant une semaine. Pour cela, adresse-toi à un membre du comité à l’entrée d’une soirée jeux avec le jeu que tu désires emprunter et présente-lui ta carte membre.<br><br>Si tu souhaites faire un emprunt en dehors d’une soirée jeux, envoie-nous un message par mail et, si un membre du comité est disponible, il s’occupera de gérer ton emprunt.<br><br>En empruntant un jeu à Ludopoly, tu acceptes nos <a id="lien" href="https://docs.google.com/document/d/1DReIX_h992ot8kpPvnGJSTemni2sW-59wlTye2LJiV8/edit?tab=t.0#heading=h.ijc8c5ko8kjs" target="_blank">conditions de prêts</a>.
+Members can borrow our games for free during an entire week. To do so, find a committee member present at the entrance of our game nights, bring them the game that you want to borrow and show them your member card.<br><br>If you wish to borrow a game at any other time during the week, send us an email, if a committee member is available, they will handle it with you.<br><br>By borrowing a game from Ludopoly, you are agreeing to our <a id="lien" href="https://docs.google.com/document/d/1DReIX_h992ot8kpPvnGJSTemni2sW-59wlTye2LJiV8/edit?tab=t.0#heading=h.v2av6rld0un8" target="_blank">lending terms</a>.
 Associations
 Associations
-En tant qu’association, il est possible d’emprunter gratuitement nos jeux pour les proposer à vos événements ou teambuilding.<br><br>Pour cela, envoyez-nous assez à l’avance un mail à comite@ludopoly.ch en nous indiquant :<br>• Les jeux que vous souhaitez emprunter, on peut également vous recommander des jeux en fonction de votre public et type d’événement.<br>• La période durant laquelle vous avez besoin des jeux, soit environ le début et la fin de votre événement (si on a un événement en même temps, on ne peut pas prêter les jeux qu'on utilise).<br><br>On fixe ensuite un rendez-vous pour vous donner les jeux et vous faire signer un contrat de prêt, dont voici <a id="lien" href="https://docs.google.com/spreadsheets/d/1fvSkU1PIivXQpJfn6n_i6U03ZuF3eYguvrrlOcNs1PM/edit?usp=sharing">un exemplaire</a>.
-As an association, you can borrow our games for free at one of your events or for your teambuildings.<br><br>To do so, send an e-mail to comite@ludopoly.ch and provide these information :<br>• The games you wish to borrow, we can also give you advice on which game to choose depending on the type of event and the attendees.<br>• The duration for which you need our games, meaning the approximate times for the start and the end of your event (if we have something planned at the same time where we need the requested games, we won’t be able to lend them).<br><br>Then, we set up a time and place to hand you the games and make you sign a lending contract, here is <a id="lien" href="https://docs.google.com/spreadsheets/d/1fvSkU1PIivXQpJfn6n_i6U03ZuF3eYguvrrlOcNs1PM/edit?usp=sharing">a copy of it</a>.
+En tant qu’association, il est possible d’emprunter gratuitement nos jeux pour les proposer à vos événements ou teambuilding.<br><br>Pour cela, envoyez-nous assez à l’avance un mail à comite@ludopoly.ch en nous indiquant :<br>• Les jeux que vous souhaitez emprunter, on peut également vous recommander des jeux en fonction de votre public et type d’événement.<br>• La période durant laquelle vous avez besoin des jeux, soit environ le début et la fin de votre événement (si on a un événement en même temps, on ne peut pas prêter les jeux qu'on utilise).<br><br>On fixe ensuite un rendez-vous pour vous donner les jeux et vous faire signer un contrat de prêt, dont voici <a id="lien" href="https://docs.google.com/spreadsheets/d/1fvSkU1PIivXQpJfn6n_i6U03ZuF3eYguvrrlOcNs1PM/edit?usp=sharing" target="_blank">un exemplaire</a>.
+As an association, you can borrow our games for free at one of your events or for your teambuildings.<br><br>To do so, send an e-mail to comite@ludopoly.ch and provide these information :<br>• The games you wish to borrow, we can also give you advice on which game to choose depending on the type of event and the attendees.<br>• The duration for which you need our games, meaning the approximate times for the start and the end of your event (if we have something planned at the same time where we need the requested games, we won’t be able to lend them).<br><br>Then, we set up a time and place to hand you the games and make you sign a lending contract, here is <a id="lien" href="https://docs.google.com/spreadsheets/d/1fvSkU1PIivXQpJfn6n_i6U03ZuF3eYguvrrlOcNs1PM/edit?usp=sharing" target="_blank">a copy of it</a>.
 /#/#/
 comite
 Comité
@@ -131,16 +131,16 @@ Ceux qui font vivre Ludopoly !
 What keeps Ludopoly alive !
 Recrutement
 Recruiting
-Si tu souhaites rejoindre le comité, n’hésite pas ! On recrute toujours. Tu n’as qu’à venir nous en parler directement ou tu peux répondre à ce <a id="lien" href="https://docs.google.com/forms/d/e/1FAIpQLSeskrgKELF_awWS4Bn1O7ch_fU12_jij0lTknwCVSYjguvbig/viewform?usp=dialog">petit formulaire</a>
-If you wish to join the committee, please do so ! We are always looking for new committee members. All you have to do is come talk to us about it, or you can also answer this <a id="lien" href="https://forms.gle/7nwMjWtWRd7aXvzk6">quick form</a> (which is in french).
+Si tu souhaites rejoindre le comité, n’hésite pas ! On recrute toujours. Tu n’as qu’à venir nous en parler directement ou tu peux répondre à ce <a id="lien" href="https://docs.google.com/forms/d/e/1FAIpQLSeskrgKELF_awWS4Bn1O7ch_fU12_jij0lTknwCVSYjguvbig/viewform?usp=dialog" target="_blank">petit formulaire</a>
+If you wish to join the committee, please do so ! We are always looking for new committee members. All you have to do is come talk to us about it, or you can also answer this <a id="lien" href="https://forms.gle/7nwMjWtWRd7aXvzk6" target="_blank">quick form</a> (which is in french).
 Comité
 Committee
 Voilà le comité actuel :<br><br><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQy3ykujjF3vzY3VnRyk1fOoFRZ2hqe0nx_X3Itb9pJQ6sWd9dMRWJuUNhJ8iVXYzY_yig55bTdLXBX/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false" width="100%" height="600" style="border:0;"></iframe>
 Here is the current committee :<br><br><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQy3ykujjF3vzY3VnRyk1fOoFRZ2hqe0nx_X3Itb9pJQ6sWd9dMRWJuUNhJ8iVXYzY_yig55bTdLXBX/pubhtml?gid=495111995&amp;single=true&amp;widget=false&amp;chrome=false&amp;headers=false" width="100%" height="600" style="border:0;"></iframe>
 Règlement
 Internal rules
-Voici notre règlement : <a id="lien" href="https://forms.gle/E2KhstzkhzTyPL4K6">règlement interne</a>, <a id="lien" href="https://docs.google.com/document/d/1l61Q6Th0F97bheKZga0_Sl_ECGz5H3BX7tn01F-xQ5A/edit?usp=sharing">responsabilités obligatoires de la présidence</a>
-Here are our internal rules (in french) : <a id="lien" href="https://docs.google.com/document/d/1xetQpkqAfSOdBnK5xKK7J2nxHObcFsdeOrPOwk4y5EQ/edit?usp=sharing">internal rules</a>, <a id="lien" href="https://docs.google.com/document/d/1l61Q6Th0F97bheKZga0_Sl_ECGz5H3BX7tn01F-xQ5A/edit?usp=sharing">mandatory responsibilities of the presidency</a>
+Voici notre règlement : <a id="lien" href="https://forms.gle/E2KhstzkhzTyPL4K6" target="_blank">règlement interne</a>, <a id="lien" href="https://docs.google.com/document/d/1l61Q6Th0F97bheKZga0_Sl_ECGz5H3BX7tn01F-xQ5A/edit?usp=sharing" target="_blank">responsabilités obligatoires de la présidence</a>
+Here are our internal rules (in french) : <a id="lien" href="https://docs.google.com/document/d/1xetQpkqAfSOdBnK5xKK7J2nxHObcFsdeOrPOwk4y5EQ/edit?usp=sharing" target="_blank">internal rules</a>, <a id="lien" href="https://docs.google.com/document/d/1l61Q6Th0F97bheKZga0_Sl_ECGz5H3BX7tn01F-xQ5A/edit?usp=sharing" target="_blank">mandatory responsibilities of the presidency</a>
 /#/#/
 polygames
 PolyGames
