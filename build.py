@@ -55,7 +55,7 @@ base0 = '''
     <meta charset="UTF-8">
     <script src="../../script.js"></script>
     <link rel="stylesheet" href="../style.css">
-    <link rel="icon" href="../../image/logo.png">
+    <link rel="icon" href="../../image/icon.png">
 </head>
 <body  onload="content();">
     <div id="navbar">
